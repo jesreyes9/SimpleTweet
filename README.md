@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Android Studio kept on freezing up, so I had to quit Android Studio a lot of times. I also spent the majority of my time trying to align the TextView for the time in relation to the other views in the Relative Layout because sometimes it would not be visible to the user and other times it was.  
 
 ## Open-source libraries used
 
